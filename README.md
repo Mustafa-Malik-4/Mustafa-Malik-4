@@ -1,6 +1,6 @@
 - Hi, I’m @Mustafa-Malik-4
 - I’m interested in Data Science and Anthropology
-- I’m currently learning about Applied Linear Algebra, Cell Biology, and Neanderthals
+- I’m currently learning about Machine Learning, Human Genetics, Primates, and Archaeological Field Methods
 - I’m looking to collaborate on Data Analysis, Genomics and/or GIS related projects
 - Reach me by email: mustafam2084@gmail.com
 - Fun fact: Did you know that some sailors can't swim?
